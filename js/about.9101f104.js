@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunklithophane_generator_vue"]=self["webpackChunklithophane_generator_vue"]||[]).push([[443],{1676:function(e,n,t){t.r(n),t.d(n,{default:function(){return g}});var a=t(3396);const r={class:"about"},u=(0,a._)("h1",null,"This is an about page",-1),o=(0,a._)("img",{src:"/Logo-2048.png",style:{"max-width":"40em"}},null,-1),s=[u,o];function i(e,n){return(0,a.wg)(),(0,a.iD)("div",r,s)}var l=t(89);const c={},h=(0,l.Z)(c,[["render",i]]);var g=h}}]);
-//# sourceMappingURL=about.9101f104.js.map
